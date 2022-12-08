@@ -1,4 +1,4 @@
-# To run this script, select "|>Run App" (Top right of this pane)
+# To run this script, select ">Run App" (Top right of this pane)
 
 # Script will install all packages before loading visualizer application
 
